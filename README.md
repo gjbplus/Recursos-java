@@ -1,5 +1,6 @@
 # Recursos-java
-## Listado de recursos teoricos y practicos para preparar examen o parcial de Java
+## Listado de recursos teoricos y practicos 
+### Para preparar examen o parcial de Java
 
 Si ya cuentas con bases teorica del lenguage java y algo de práctica
 deberias hacer un conjuntoo de pruebas para saber en que nivel te encuentas.
