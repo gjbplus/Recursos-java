@@ -11,4 +11,4 @@ deberias hacer un conjuntoo de pruebas para saber en que nivel te encuentas.
 2- Cuestionario Java - 25 preguntas (con respuestas multiple opción)
    [Hacer cuestionario en w3schools](https://www.w3schools.com/quiztest/quiztest.asp?qtest=JAVA)
 
-3- [Kit de preparación 1 semana Certificado Problem Solving Hackerrank](https://www.hackerrank.com/interview/preparation-kits/one-week-preparation-kit/one-week-day-one/challenges)
+3- Kit de ejercicios de 1 semana de preparación [Certificado: Problem Solving Hackerrank](https://www.hackerrank.com/interview/preparation-kits/one-week-preparation-kit/one-week-day-one/challenges)
