@@ -8,4 +8,4 @@ deberias hacer un conjuntoo de pruebas para saber en que nivel te encuentas.
    [Practicar en w3Schools](https://www.w3schools.com/java/exercise.asp)
 
 2- Cuestionario Java - 25 preguntas (con respuestas multiple opción)
-   [Cuestionario en w3schools](https://www.w3schools.com/quiztest/quiztest.asp?qtest=JAVA)
+   [Hacer cuestionario en w3schools](https://www.w3schools.com/quiztest/quiztest.asp?qtest=JAVA)
